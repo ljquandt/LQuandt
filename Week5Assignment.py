@@ -29,6 +29,5 @@ def main():
             performCalculation(operation_to_perform)
         operation_to_perform=input("Please enter operation (+,-,*,/ or Avg) or -1 to end program: ")
 
-if __name__ == '__main__':
     main()
 
